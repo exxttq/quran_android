@@ -41,6 +41,7 @@ import android.media.MediaPlayer.OnPreparedListener
 import android.media.MediaPlayer.OnSeekCompleteListener
 import android.net.wifi.WifiManager
 import android.net.wifi.WifiManager.WifiLock
+import android.media.PlaybackParams
 import android.os.Build
 import android.os.Handler
 import android.os.HandlerThread
